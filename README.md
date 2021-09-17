@@ -1,2 +1,2 @@
 # LinearRegressionProject_Airbnb
-A project of SAIA T5 Bootcamp
+A project of SDAIA T5 Bootcamp
